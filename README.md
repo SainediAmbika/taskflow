@@ -462,24 +462,27 @@ Backend errors are passed through centralized error-handling middleware, while t
 
 ### 📝 Registration
 
-![TaskFlow Registration](./screenshots/registration.png)
+<img width="959" height="418" alt="image" src="https://github.com/user-attachments/assets/e9ca0236-5980-4ddb-9405-6b8becd6f50c" />
 
 ### 📋 Task Dashboard
 
-![TaskFlow Dashboard](./screenshots/dashboard.png)
+<img width="960" height="419" alt="image" src="https://github.com/user-attachments/assets/65cfc5d3-e495-406a-9a83-f2a5897458e1" />
 
 ### ✏️ Edit Task
 
-![TaskFlow Edit Task](./screenshots/edit-task.png)
+<img width="830" height="305" alt="image" src="https://github.com/user-attachments/assets/00b9adfa-a4a2-427c-9f6d-355d781582d9" />
+<img width="959" height="415" alt="image" src="https://github.com/user-attachments/assets/ce053135-f867-45c9-bf73-bfc6b88e2371" />
+<img width="515" height="115" alt="image" src="https://github.com/user-attachments/assets/6dfd5239-30a2-41d6-a80e-74111c2dbd7a" />
 
 ### 🌙 Dark Mode
 
-![TaskFlow Dark Mode](./screenshots/dark-mode.png)
+<img width="951" height="416" alt="image" src="https://github.com/user-attachments/assets/51d99b38-1dd8-4bd7-9343-4302ed3d9949" />
 
 ### 📱 Responsive Design
 
-![TaskFlow Responsive Design](./screenshots/responsive.png)
-
+<img width="881" height="832" alt="image" src="https://github.com/user-attachments/assets/d07db43e-08a9-4504-b2da-f823dbd1d1eb" />
+<img width="440" height="422" alt="image" src="https://github.com/user-attachments/assets/1a9adf8a-f19d-4a0e-acc4-3aac40012a85" />
+<img width="440" height="426" alt="image" src="https://github.com/user-attachments/assets/aa414c3e-a808-4260-9ed8-70763efde197" />
 
 ## 📌 Future Improvements
 
