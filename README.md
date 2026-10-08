@@ -453,6 +453,33 @@ Backend errors are passed through centralized error-handling middleware, while t
 - 📱 Designed a responsive UI using Tailwind CSS
 
 ---
+## 📸 Screenshots
+
+### 🔐 Login
+
+<img width="959" height="419" alt="image" src="https://github.com/user-attachments/assets/d4fe11c6-2d83-487c-917d-30cb6665f89c" />
+
+
+### 📝 Registration
+
+![TaskFlow Registration](./screenshots/registration.png)
+
+### 📋 Task Dashboard
+
+![TaskFlow Dashboard](./screenshots/dashboard.png)
+
+### ✏️ Edit Task
+
+![TaskFlow Edit Task](./screenshots/edit-task.png)
+
+### 🌙 Dark Mode
+
+![TaskFlow Dark Mode](./screenshots/dark-mode.png)
+
+### 📱 Responsive Design
+
+![TaskFlow Responsive Design](./screenshots/responsive.png)
+
 
 ## 📌 Future Improvements
 
