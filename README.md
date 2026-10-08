@@ -10,41 +10,41 @@ TaskFlow demonstrates a practical frontend-to-backend workflow including authent
 
 ### 🎨 Frontend
 
- ⚛️ React.js with functional components and React Hooks
- 🧭 React Router for client-side navigation
- 🔐 Protected routes for authenticated users
- 🌓 Light/Dark theme using Context API
- 💾 LocalStorage for authentication and theme persistence
- 📡 Axios for REST API communication
- 🎯 Reusable and modular components
- 📱 Responsive UI with Tailwind CSS
- ⏳ Loading and error handling
- 📝 Create and manage tasks
- 🔄 Update task status
- 🗑️ Delete tasks
- 👤 User-specific task management
+- ⚛️ React.js with functional components and React Hooks
+- 🧭 React Router for client-side navigation
+- 🔐 Protected routes for authenticated users
+- 🌓 Light/Dark theme using Context API
+- 💾 LocalStorage for authentication and theme persistence
+- 📡 Axios for REST API communication
+- 🎯 Reusable and modular components
+- 📱 Responsive UI with Tailwind CSS
+- ⏳ Loading and error handling
+- 📝 Create and manage tasks
+- 🔄 Update task status
+- 🗑️ Delete tasks
+- 👤 User-specific task management
 
 ### 🔐 Authentication & Security
 
- 🔑 User registration and login
- 🎟️ JWT-based authentication
- 🛡️ Protected API routes
- 🔒 Password hashing using bcrypt
- 🔐 Authorization header using Bearer tokens
- 🚫 Sensitive configuration stored in environment variables
- 👤 Tasks associated with authenticated users
+- 🔑 User registration and login
+- 🎟️ JWT-based authentication
+- 🛡️ Protected API routes
+- 🔒 Password hashing using bcrypt
+- 🔐 Authorization header using Bearer tokens
+- 🚫 Sensitive configuration stored in environment variables
+- 👤 Tasks associated with authenticated users
 
 ### ⚙️ Backend
 
- 🟢 Node.js
- 🚂 Express.js
- 🍃 MongoDB with Mongoose
- 🔗 RESTful API architecture
- 🧩 Controller, service, model, and route separation
- 🛡️ Authentication middleware
- ⚠️ Centralized error handling
- 🌍 CORS configuration
- 🔐 Environment-based configuration
+- 🟢 Node.js
+- 🚂 Express.js
+- 🍃 MongoDB with Mongoose
+- 🔗 RESTful API architecture
+- 🧩 Controller, service, model, and route separation
+- 🛡️ Authentication middleware
+- ⚠️ Centralized error handling
+- 🌍 CORS configuration
+- 🔐 Environment-based configuration
 
 ---
 
@@ -246,10 +246,10 @@ MongoDB Atlas
 
 Make sure you have installed:
 
- 🟢 Node.js
- 📦 npm
- 🍃 MongoDB Atlas account
- 🌿 Git
+- 🟢 Node.js
+- 📦 npm
+- 🍃 MongoDB Atlas account
+- 🌿 Git
 
 ---
 
